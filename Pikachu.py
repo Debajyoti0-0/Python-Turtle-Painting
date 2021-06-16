@@ -1,7 +1,7 @@
 # !/usr/bin/env python3 
 # -*- coding: utf-8 -*- 
 # @Author: Debajyoti 
-# @Env: python 3.6 
+# @Env: Python 3.7.4 
 # @Github: https://github.com/Debajyoti0-0 
 import turtle
 
